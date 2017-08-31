@@ -1,0 +1,10 @@
+C:\Users\luisp\Documents\Universidad\Octavo Ciclo\Estructura de datos II\Laboratorio\LaboratorioRepaso_1037214\LaboratorioRepaso_1037214\bin\Debug\LaboratorioRepaso_1037214.exe.config
+C:\Users\luisp\Documents\Universidad\Octavo Ciclo\Estructura de datos II\Laboratorio\LaboratorioRepaso_1037214\LaboratorioRepaso_1037214\bin\Debug\LaboratorioRepaso_1037214.exe
+C:\Users\luisp\Documents\Universidad\Octavo Ciclo\Estructura de datos II\Laboratorio\LaboratorioRepaso_1037214\LaboratorioRepaso_1037214\bin\Debug\LaboratorioRepaso_1037214.pdb
+C:\Users\luisp\Documents\Universidad\Octavo Ciclo\Estructura de datos II\Laboratorio\LaboratorioRepaso_1037214\LaboratorioRepaso_1037214\obj\Debug\LaboratorioRepaso_1037214.csprojResolveAssemblyReference.cache
+C:\Users\luisp\Documents\Universidad\Octavo Ciclo\Estructura de datos II\Laboratorio\LaboratorioRepaso_1037214\LaboratorioRepaso_1037214\obj\Debug\LaboratorioRepaso_1037214.Form1.resources
+C:\Users\luisp\Documents\Universidad\Octavo Ciclo\Estructura de datos II\Laboratorio\LaboratorioRepaso_1037214\LaboratorioRepaso_1037214\obj\Debug\LaboratorioRepaso_1037214.Properties.Resources.resources
+C:\Users\luisp\Documents\Universidad\Octavo Ciclo\Estructura de datos II\Laboratorio\LaboratorioRepaso_1037214\LaboratorioRepaso_1037214\obj\Debug\LaboratorioRepaso_1037214.csproj.GenerateResource.Cache
+C:\Users\luisp\Documents\Universidad\Octavo Ciclo\Estructura de datos II\Laboratorio\LaboratorioRepaso_1037214\LaboratorioRepaso_1037214\obj\Debug\LaboratorioRepaso_1037214.csproj.CoreCompileInputs.cache
+C:\Users\luisp\Documents\Universidad\Octavo Ciclo\Estructura de datos II\Laboratorio\LaboratorioRepaso_1037214\LaboratorioRepaso_1037214\obj\Debug\LaboratorioRepaso_1037214.exe
+C:\Users\luisp\Documents\Universidad\Octavo Ciclo\Estructura de datos II\Laboratorio\LaboratorioRepaso_1037214\LaboratorioRepaso_1037214\obj\Debug\LaboratorioRepaso_1037214.pdb
